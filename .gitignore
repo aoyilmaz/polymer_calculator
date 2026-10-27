@@ -1,0 +1,22 @@
+# Python sanal ortamları
+.venv/
+venv/
+env/
+pyqt_env/
+
+# Python önbellekleri
+__pycache__/
+*.py[cod]
+
+# Ortam değişkenleri ve gizli bilgiler
+.env
+.env.*
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Test ve araç önbellekleri
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
