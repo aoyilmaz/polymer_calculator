@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="image">
+    <file>exa_icon.ico</file>
+    <file>exaplast.png</file>
+  </qresource>
+</RCC>
